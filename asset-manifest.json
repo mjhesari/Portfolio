@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d9f5b17.css",
+    "main.js": "/static/js/main.1fff0724.js",
+    "static/media/JS & Ajax & Jquery.jpg": "/static/media/JS & Ajax & Jquery.38d2108c76bd448084a0.jpg",
+    "static/media/Html5 & Css 3.jpg": "/static/media/Html5 & Css 3.e72b2a8cf8c6da9848e4.jpg",
+    "static/media/React.Js & Redux.jpg": "/static/media/React.Js & Redux.c3764d99b38fe55e0d4f.jpg",
+    "static/media/Responsive & Bootstrap 5.jpg": "/static/media/Responsive & Bootstrap 5.62c4e34124d41c6b4859.jpg",
+    "static/media/IMG_5904-1.jpg": "/static/media/IMG_5904-1.af6528b3a0b20a8257d7.jpg",
+    "static/media/131235.jpg": "/static/media/131235.909a99713ccdd89990fd.jpg",
+    "static/media/20377.jpg": "/static/media/20377.f853ac4985acfd27d04f.jpg",
+    "static/media/19961.jpg": "/static/media/19961.cd9aa214b4a5e7353cbd.jpg",
+    "static/media/32077.jpg": "/static/media/32077.701a51a7127f0baefd5d.jpg",
+    "index.html": "/index.html",
+    "main.5d9f5b17.css.map": "/static/css/main.5d9f5b17.css.map",
+    "main.1fff0724.js.map": "/static/js/main.1fff0724.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d9f5b17.css",
+    "static/js/main.1fff0724.js"
+  ]
+}
